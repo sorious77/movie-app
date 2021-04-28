@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+.movie a {
+  display: contents;
+  text-decoration: none;
+}
+
 .movie {
   background-color: white;
   display: flex;
